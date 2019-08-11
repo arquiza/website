@@ -1,0 +1,10 @@
+@font-face{
+    src: url(fonts/AlteHaasGroteskBold.ttf);
+    font-family: nos;
+}
+.sentence{
+    font-size: 50px;
+    line-height: 62px;
+    font-family: nos;
+    text-align: center;
+}
